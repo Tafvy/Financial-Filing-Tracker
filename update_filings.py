@@ -5,7 +5,7 @@ import time
 # --- CONFIGURATION ---
 # Replace these with your actual tickers or a mechanism to read your TV export
 TICKERS = ["AAOI", "AXTI", "LITE", "CHOR"] 
-HEADERS = {'User-Agent': 'YourName your@email.com'} 
+HEADERS = {'User-Agent': 'Taufiqur tauf2772@gmail.com'} 
 
 def get_filings():
     # 1. Get Ticker-to-CIK mapping from SEC
